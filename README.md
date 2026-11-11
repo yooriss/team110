@@ -1,6 +1,6 @@
 # Team11 – 부산튜브 시민 반응 분석 대시보드
 
-> 앱 URL: (배포했다면 여기에)
+> 앱 URL:(https://team11-qvqdgjkayhysinnfk5lnfz.streamlit.app)
 
 ## 프로젝트 소개
 부산광역시 공식 유튜브 채널(부산튜브)의 영상 유형(정책 정보형 vs 숏폼/예능형)별
