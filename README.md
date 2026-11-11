@@ -27,4 +27,5 @@ streamlit run app.py
 - `google-api-python-client`: YouTube Data API v3 연동
 
 ## 5. 앱 실행 화면 (중간 점검)
-![앱 실행 화면](./screenshot.png)
+ ![메타데이터 수집 화면](./screenshot1.png) | ![댓글 표 출력 화면](./screenshot2.png) |
+
